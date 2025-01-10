@@ -1,0 +1,4 @@
+File 3 here.
+Multiple lines
+in this file.
+Last line of file 3.

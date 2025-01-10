@@ -1,0 +1,5 @@
+This is a normal file.
+It has multiple lines.
+Some lines are short.
+Others are a bit longer, but still within reasonable limits.
+The last line.
